@@ -1,0 +1,25 @@
+BaseUrl= "http://tzubertowski.github.io/"
+LanguageCode= "en-GB"
+Title= "devlags | Tomasz Zubertowski"
+paginate = 5
+DisqusShortname = "devlags"
+Copyright = "All rights somethingsomething opensource, yay!"
+canonifyurls = true
+
+[params]
+  description = "this is my description"
+  cover = "images/cover.jpg"
+  author = "Tomasz Zubertowski"
+  authorlocation = "London, United Kingdom"
+  authorwebsite = "http://tzubertowski.github.io"
+  bio= "backend dev, devops, PHP passionate"
+  logo = "images/logo.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..." 
+  githubName = "tzubertowski"
+  twitterName = "ja_tomasz"
+  # facebookName = ""
+  linkedinName = "tzubertowski"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
