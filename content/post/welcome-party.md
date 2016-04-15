@@ -2,8 +2,7 @@
 date = "2016-04-15T07:10:08+01:00"
 draft = true
 title = "Welcome Party"
-categories:
-    - "blog"
+categories = ["blog"]
 +++
 #### Introduction
 Hey,
