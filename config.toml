@@ -7,14 +7,14 @@ Copyright = "All rights somethingsomething opensource, yay!"
 canonifyurls = true
 
 [params]
-	description = "this is my description"
-	cover = "images/cover.jpg"
+	description = "passionate developer with lags"
+	cover = "images/header_image.jpg"
 	author = "Tomasz Zubertowski"
 	authorlocation = "London, United Kingdom"
 	authorwebsite = "http://tzubertowski.github.io"
 	bio= "backend dev, devops, PHP passionate"
-	logo = "images/logo.png"
-	googleAnalyticsUserID = "UA-79101-12"
+	logo = "images/oo_myface.png"
+	googleAnalyticsUserID = "UA-76483272-12"
 	# Optional RSS-Link, if not provided it defaults to the standard index.xml
 	# RSSLink = "http://feeds.feedburner.com/..." 
 	githubName = "tzubertowski"
@@ -27,3 +27,21 @@ canonifyurls = true
 [taxonomies]
 	tag = "tags"
 	category = "categories"
+
+[[menu.main]]
+  name = "About devlags"
+  weight = -110
+  identifier = "about"
+  url = "/post/welcome-party"
+
+[[menu.main]]
+  name = "Blog posts"
+  weight = -110
+  identifier = "post_list"
+  url = "/post"
+
+[[menu.main]]
+  name = "Feuilletons"
+  weight = -110
+  identifier = "feuilleton_list"
+  url = "/categories/feuilleton/"
