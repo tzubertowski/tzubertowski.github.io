@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on devlags | Tomasz Zubertowski</title>
+    <link>http://tzubertowski.github.io/post/</link>
+    <description>Recent content in Posts on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>All rights somethingsomething opensource, yay!</copyright>
+    <lastBuildDate>Sun, 01 May 2016 09:56:31 +0100</lastBuildDate>
+    <atom:link href="http://tzubertowski.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Senior developer - why can&#39;t you land a job with me</title>
+      <link>http://tzubertowski.github.io/post/senior-developer-interview/</link>
+      <pubDate>Sun, 01 May 2016 09:56:31 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/post/senior-developer-interview/</guid>
+      <description>
+
+&lt;h3 id=&#34;foreword:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;Foreword&lt;/h3&gt;
+
+&lt;p&gt;I may not be the most experienced developer who takes care of recruitment process. At the same time the experience I have gained so far makes me a good source of information about conducting and attending  interviews. Please, keep in mind that this article is written from the perspective of developer and &lt;strong&gt;not&lt;/strong&gt; a recruiter before reading any further.&lt;/p&gt;
+
+&lt;p&gt;Note: I didn&amp;rsquo;t want to bring any specific programming language to this post as I strongly believe what I am going to talk about applies to all of the languages.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Looking for a job? I don&amp;rsquo;t even have to imagine how many offers do you actually receive per week as a developer. I am one as well, you know. Well, company loyalty is something I would like to save for another post and you have your own reasons for the job hunt anyway.
+Since you are reading this there is good chance you are a senior developer. I assume you have already submitted your CV to some of the offers. Perhaps you have even been interviewed already and received a response - a negative one.&lt;/p&gt;
+
+&lt;p&gt;How comes, even though you have been always successful and landed any job so far - it is now that you receive refusals?&lt;/p&gt;
+
+&lt;h4 id=&#34;1-your-expectations:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;1. Your expectations&lt;/h4&gt;
+
+&lt;p&gt;You are not applying for a junior nor mid positions anymore. You have enough experience to consider yourself a senior. It is only natural that you expect the interview to be conducted with consideration to your experience and skill. Perhaps you cannot wait to shine with your knowledge about all those curiosities you happened to learn over the years. Maybe even hoping for a moment to discuss and confront your views on a given subject during the interview.
+And this is fine. It is usually the case that interviews are prepared with that in mind. But if your expectations are anywhere near what I mentioned– be assured, they are not even close to your interviewer expectations.&lt;/p&gt;
+
+&lt;h4 id=&#34;2-interviewer-expectations:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;2. Interviewer expectations&lt;/h4&gt;
+
+&lt;p&gt;While it is fairly easy to &lt;em&gt;screen&lt;/em&gt; someone out and proceed with the proper interview it is the &lt;em&gt;screening&lt;/em&gt; part that often leaves the biggest impression.&lt;br /&gt;
+The thing you need to know is that in my opinion&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;level gap between junior and mid developer is nothing to compare to the difference between mid and senior developer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When I ask you a question and do not explicitly specify that I want a general idea you are safe to assume I am looking for an answer which levels with the position you have applied for.
+I usually tend to give a subtle push towards this by continuing to ask about details, even for the simplest of questions, when the answer was insufficient. &lt;em&gt;However it is when I usually receive no constructive answer&lt;/em&gt;. I am not here to judge as to why, but you need to be aware I expect an answer which a senior developer could give and am not looking for a junior or even mid level.&lt;/p&gt;
+
+&lt;p&gt;And as to the &lt;em&gt;advanced&lt;/em&gt; questions – they are &lt;em&gt;the cherry on the cake&lt;/em&gt;. If the cake itself is not tasty no cherry will make a difference. At the same time it is the cherry that makes the cake complete. What I mean to say by that is simple – know your basics. Be prepared to answer the questions as a senior and then I will gladly proceed with the more ambitious questions.&lt;/p&gt;
+
+&lt;h4 id=&#34;3-misconception-about-interview-purpose:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;3. Misconception about interview purpose&lt;/h4&gt;
+
+&lt;p&gt;Sadly it is a very common thing. Interviews are held for one single purpose. &lt;strong&gt;To check the candidates compatibility with the position&lt;/strong&gt;. Meaning no less than – they are here for the employer.&lt;br /&gt;
+I like ambition and I do not mind holding a discussion during my interviews. Same thing about answering questions that candidate failed to answer yet seeks the solution. I will be there for you as long as it does not interfere with the reason I have mentioned.&lt;/p&gt;
+
+&lt;p&gt;It may be harsh but: interview is held for the sake of the employer. Keep that in mind.&lt;/p&gt;
+
+&lt;h4 id=&#34;4-lack-of-preparation-from-either-of-sides:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;4. Lack of preparation from either of sides&lt;/h4&gt;
+
+&lt;p&gt;I try to reserve an hour before each interview to prepare myself. To know my candidate profile and arrange the interview to fulfil #2 and #3 goals. However I am still a person, a developer in fact. There are times when I am only able to spare 20 or 30 minutes. Even though I have a set of guidelines to follow it may affect the way the interview will go. But don&amp;rsquo;t worry, it will not affect the outcome.&lt;/p&gt;
+
+&lt;p&gt;However there are things that are under your control. One of them is your own preparation. When you are asked to come for the interview, asked to bring your laptop and notified that there is going to be technical part it is for your best interest to prepare for that or &lt;strong&gt;simply decline&lt;/strong&gt;. I have no problems with sharing my laptop with you if there is a reason you couldn&amp;rsquo;t bring yours. I do not really like the idea of &lt;em&gt;livecoding&lt;/em&gt; during interviews so I will allow you to choose either writing down/explaining an algorithm, mocking up pseudocode or simply picking a language of your choice to write the solution in.
+Still if during that part you are surprised, unprepared or unwilling to go with the technical part, well, the outcome of the interview is quite easy to predict.&lt;/p&gt;
+
+&lt;p&gt;Note: also keep in mind that technical interviews should be, and usually are, graded respecting the circumstances (stress does it&amp;rsquo;s own thing).&lt;/p&gt;
+
+&lt;h4 id=&#34;5-inconsistent-cv:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;5. Inconsistent CV&lt;/h4&gt;
+
+&lt;p&gt;No matter what amount of information your CV contains please do not contradict yourself. Keep your CV updated and do not allow mistakes such as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I have 11 years of experience as a developer&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;followed by&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;.. And around 7 years in IT overall.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Such mistakes make you look less reliable (and perhaps this is not just an expression).
+At the same time make sure you mention your knowledge level toskills/technologies you have put there. If you list 20 technologies used in one project I will pick one of them and verify that you indeed have used it.&lt;/p&gt;
+
+&lt;h3 id=&#34;afterword:42f07ccfb7efa4930286fcbbbf078a9c&#34;&gt;Afterword&lt;/h3&gt;
+
+&lt;p&gt;Well it looks like I shared my secrets with you, just be sure to take them with a pinch of salt. All I did was that I simply pointed out things you could find out yourself as an interviewee. They are more or less obvious. Some of them may even seem outrageous but I would rather make you aware of those than let you keep repeating your mistakes.
+Perhaps when you land the job you wanted you will write me nice comment? Or maybe you have already landed it and have something to share? Whatever it may be – just leave me a comment.&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Tomasz&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning how to code: common mistakes</title>
+      <link>http://tzubertowski.github.io/post/learning-to-code-mistakes/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/post/learning-to-code-mistakes/</guid>
+      <description>
+
+&lt;h3 id=&#34;backstory:956aca75d2470339da4aa6cd11d24df5&#34;&gt;Backstory&lt;/h3&gt;
+
+&lt;p&gt;Like many other developers I started my adventure with programming without any good reason. Some of us started early while some of us started late in our lives. At the same time nearly all started out simply because &amp;ldquo;it seemed like a fun thing to do&amp;rdquo;. Just like that - &amp;ldquo;it was fun to do so I did it&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I was lucky enough to own a really low-budget PC as a kid. I was just 14 years old, when all of my friends were playing quake 3 and I was stuck with DOS or 2D games. Thanks to that I quickly stumbled upon my first programming language – visualbasic. And man, I have probably spent more time helping with an open-source online MUD (multiplayer user dungeon) project than I have ever spent on my engineering diploma. Kids are kids, school is school and - we became flooded with MMO games. Due to that my interest in programming died.&lt;/p&gt;
+
+&lt;p&gt;It wasn&amp;rsquo;t until when I was 20 that I have became interested in programming again. In the next following two years I advanced from an intern into a mid position programmer.&lt;/p&gt;
+
+&lt;p&gt;How comes it only took me two years? Why do other people struggle with learning how to code? I will try to answer those questions by listing the most common mistakes people do while learning how to code.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-lack-of-just-in-time-learning:956aca75d2470339da4aa6cd11d24df5&#34;&gt;1. Lack of Just-in-time learning&lt;/h2&gt;
+
+&lt;p&gt;What is just-in-time learning?&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;You will &lt;strong&gt;ever only need to learn anything when you need it to fulfill your goal&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Do you know what will people tell you when you ask them &lt;em&gt;&amp;ldquo;where should I start learning how to code&amp;rdquo;&lt;/em&gt;? &lt;em&gt;&amp;ldquo;Go read the C symfony book&amp;rdquo;&lt;/em&gt;. And yeah, I tried that too as a junior. In terms of books – it is one of the best manuals for a given language, syntax and usages that I have ever read. &lt;strong&gt;But reading books when all you want to do is learn how to code is insanely unoptimized&lt;/strong&gt;. Do not read a 500 pages long book about &lt;em&gt;best practices with database handling in your code&lt;/em&gt; before you even start using a database in it. First learn by using it, then read anything that will make you better with it - as long as it brings you closer to your goal.&lt;/p&gt;
+
+&lt;p&gt;Same goes for tutorials. I am not saying experimenting is bad but no matter how interesting going through 10 randomly picked tutorials may seem to be, the ending result is often &lt;em&gt;a random source code you have copypasted from a tutorial just to see how it works&lt;/em&gt;. This knowledge will be, at best, temporary. When a project will make you use one of the technologies/solutions that you have once seen in a tutorial, well, you will simply google it again and then perhaps learn it by experience.
+Reading unrelated materials will take your time and energy which you may have spent on constructive learning.&lt;/p&gt;
+
+&lt;p&gt;Then why do people defend learning from books, going from page one to page six hundred, in order to learn how to write a calculator in PHP? In most cases they are motivated by getting &lt;em&gt;&amp;ldquo;advanced understanding of a given subject&amp;rdquo;&lt;/em&gt;. Why would you need that when you are just starting out? Well, the answer you will receive from them will be similar to &lt;em&gt;&amp;ldquo;would you like to use something without understanding it?&amp;rdquo;&lt;/em&gt;. The truth is  – for a lot of them it&amp;rsquo;s just fear of not being able to answer a question. Be it at the interview or during their actual work. But why should you care? You want to be a developer, not an encyclopedia. In your everyday life you use things you do not understand and it is not expected of you to understand them fully. Mobile phones, laptops, even cars sometimes. Same thing applies to programming. No one sane will ever expect you to know everything about android development just because you are an android developer.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-learning-without-a-set-goal:956aca75d2470339da4aa6cd11d24df5&#34;&gt;2. Learning without a set goal&lt;/h2&gt;
+
+&lt;p&gt;Even if it is your day 1 of programming. Set a goal: &lt;em&gt;&amp;ldquo;I want to build a calculator&amp;rdquo;&lt;/em&gt;. Make a goal of creating an application which does &lt;em&gt;a&lt;/em&gt;, by doing &lt;em&gt;b&lt;/em&gt;, so you get &lt;em&gt;c&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why do you need that? It will:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Minimize amount of clueless wandering mentioned in #1&lt;/li&gt;
+&lt;li&gt;It will, by nature, make you learn things you need to know in order to be able to build it&lt;/li&gt;
+&lt;li&gt;At the end of this project you will be left with something you made yourself and something you can show to someone in case of need&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But how do you exactly start? Let&amp;rsquo;s say you have picked a project, you want to create a &lt;em&gt;countdown clock&lt;/em&gt;. Here are a few steps you could take in order to accomplish this task:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You need to show a window when the clock will be displayed. &lt;strong&gt;Search how to display an empty window&lt;/strong&gt; in your chosen language.&lt;/li&gt;
+&lt;li&gt;You need to have a field which will say &amp;ldquo;how many minutes should I countdown for&amp;rdquo;. &lt;strong&gt;Search how to add a field to input data into&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;You need to have a button &lt;em&gt;start counting down&lt;/em&gt;. &lt;strong&gt;Search how to create a button&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;You need to make something happen when you click the button. &lt;strong&gt;Search how to make something happen when you click on the button&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;You need to make a timer with set amount of minutes. &lt;strong&gt;Search how to create a timer&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;….&lt;/p&gt;
+
+&lt;p&gt;99 . Finish and release your application.&lt;/p&gt;
+
+&lt;p&gt;I hope you get what I mean. Setting a goal and slowly breaking it down will not only keep your development flow but will keep you focused on the goal as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-mr-perfect:956aca75d2470339da4aa6cd11d24df5&#34;&gt;3. Mr. Perfect&lt;/h2&gt;
+
+&lt;p&gt;This is a case very commonly seen in the junior level developers. I have already touched this subject in the #1 argument. Spending tons and tons of time just to make something perfect. Indefinitely updating, refactoring, changing the code. Finding better solutions, going through tutorials and books.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Just stop it&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A finished project is always better than a good mockup, just like done is always better than perfect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;4-spending-too-much-time-on-a-single-problem:956aca75d2470339da4aa6cd11d24df5&#34;&gt;4. Spending too much time on a single problem&lt;/h2&gt;
+
+&lt;p&gt;No. I do not mean it in the offensive way. But when your problem is big enough for you not to be able to solve it in 2-3 hours it means that spending 5 hours on it will, most likely, not help you solve it either.&lt;/p&gt;
+
+&lt;p&gt;Just relax. Programming is an exhausting mental job. Every single programmer in the world has those kind of blocks sometimes.&lt;/p&gt;
+
+&lt;h2 id=&#34;5-personal-attitude-towards-criticism:956aca75d2470339da4aa6cd11d24df5&#34;&gt;5. Personal attitude towards criticism&lt;/h2&gt;
+
+&lt;p&gt;There will be a time, perhaps soon, when you will have to show your code to someone. Not just the finished project. The source code.&lt;/p&gt;
+
+&lt;p&gt;If you haven&amp;rsquo;t worked with another programmer before then, well, there is a good chance you will misinterpret criticism towards your code as a criticism towards yourself. No one ever means that. Even if they did their argument would be invalid as every programmer in the world writes barely acceptable code once in a while. You are just learning.
+What matters is what you do with the feedback. No matter how irrelevant it can be – never ignore it no matter what. If someone found enough time to point it out you should take at least as much to verify and/or fix it.&lt;/p&gt;
+
+&lt;h1 id=&#34;afterword:956aca75d2470339da4aa6cd11d24df5&#34;&gt;Afterword&lt;/h1&gt;
+
+&lt;p&gt;Thank you for going through this article with me. It was written based on my own experiences and will not apply to each and every situation. However my intention was to show you &lt;em&gt;guidelines&lt;/em&gt; to keep you on tract.&lt;/p&gt;
+
+&lt;p&gt;Do you agree with me? Maybe disagree? Perhaps there is something I have missed? Be sure to drop a comment below. Much appreciated.&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Tomasz&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome Party</title>
+      <link>http://tzubertowski.github.io/post/welcome-party/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/post/welcome-party/</guid>
+      <description>
+
+&lt;h4 id=&#34;what-is-this-blog-about:8693bec8c5d34e11b55439bc9cea0715&#34;&gt;What is this blog about&lt;/h4&gt;
+
+&lt;p&gt;About developer lags. There are moments in your programming life when you need to sit down, perhaps write something down before throwing yourself into coding again. I always called those the dev lags. A lot of the beneficial ones have already been lost, hopefully this blog will save the rest of them.&lt;/p&gt;
+
+&lt;h4 id=&#34;what-can-you-expect:8693bec8c5d34e11b55439bc9cea0715&#34;&gt;What can you expect:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tutorials, related to backend development, answers to less obvious programming questions&lt;/li&gt;
+&lt;li&gt;felietons, articles from the viewpoint of a developer, touching non-technical aspect of the profession&lt;/li&gt;
+&lt;li&gt;blogposts, my experiences from meetups, conferences, or simply articles which I wouldn&amp;rsquo;t call felietons&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
