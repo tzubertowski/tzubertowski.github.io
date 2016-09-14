@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61b5f5c-2a9a-45e1-a51f-37561915608a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/senior-developer-interview.md" afterPath="$PROJECT_DIR$/content/post/senior-developer-interview.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/post/ci-wont-save-you.md" afterPath="$PROJECT_DIR$/content/post/ci-wont-save-you.md" />
     </list>
     <ignored path="tzubertowski.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,9 +36,9 @@
       <file leaf-file-name="ci-wont-save-you.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/post/ci-wont-save-you.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="433">
+                <caret line="40" column="152" selection-start-line="40" selection-start-column="152" selection-end-line="40" selection-end-column="152" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -218,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1473847823914</updated>
       <workItem from="1473847827101" duration="503000" />
-      <workItem from="1473849737863" duration="2135000" />
+      <workItem from="1473849737863" duration="2752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2638000" />
+    <option name="totallyTimeSpent" value="3255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1274" height="772" extended-state="0" />
@@ -330,9 +329,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/post/ci-wont-save-you.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="433">
+            <caret line="40" column="152" selection-start-line="40" selection-start-column="152" selection-end-line="40" selection-end-column="152" />
             <folding />
           </first_editor>
           <second_editor />
