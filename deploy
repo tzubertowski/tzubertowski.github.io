@@ -22,4 +22,8 @@ cd ..
 # Push source
 git subtree push --prefix=public git@github.com:tzubertowski/tzubertowski.github.io.git master
 
+cd ../
+git add -A .
+git commit -m "$msg"
+git push origin source
 

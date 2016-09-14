@@ -1,6 +1,6 @@
 +++
 date = "2016-04-15T07:10:08+01:00"
-draft = true
+draft = false
 title = "Learning how to code: common mistakes"
 image = "images/2016/04/mistakes.jpg"
 categories = ["feuilleton"]
