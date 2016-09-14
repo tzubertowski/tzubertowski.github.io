@@ -11,7 +11,7 @@
     <atom:link href="http://tzubertowski.github.io/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Sunday sermon #2 - help your project, use CI!</title>
+      <title>Sunday sermon #2 - help your project, use CI &amp; automation</title>
       <link>http://tzubertowski.github.io/post/ci-wont-save-you/</link>
       <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
       
@@ -24,15 +24,15 @@
 
 &lt;p&gt;Say, you remember when you started your first coding related job, or maybe the second. Hopefully the company/environment provided you with opportunity to review code throughout the team. If so you may have noticed that often it is not the solution itself that takes the most time but the actual codereviews, discussions and merging that is the problem.&lt;/p&gt;
 
-&lt;p&gt;Now the idea of CI is that those submitted changes once reviewed/documented/whatever is in the process get merged and integrated into the code base.&lt;/p&gt;
-
-&lt;h3 id=&#34;2-benefits-of-ci:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2. Benefits of CI&lt;/h3&gt;
-
-&lt;p&gt;Now you may have been unlucky and had the unpleasant opportunity of deployments straight to staging/production in versioning approach [simply deploying with version only].&lt;/p&gt;
+&lt;p&gt;Now you may have been unlucky and had the unpleasant opportunity of deploying straight to staging/production in versioning approach [simply deploying with version only].&lt;/p&gt;
 
 &lt;p&gt;That often means that your code gets merged and integrated not after it was reviewed BUT during the deployment process. A few days taken out of the team life just to fix broken tests, conflicts, bad merges and other hidden problems. Not to mention that the actual deployment usually takes a lot of time as well: executing migrations, updating codebase, regenerating caches/static content.&lt;/p&gt;
 
-&lt;p&gt;In comes CI with it&amp;rsquo;s integral part - automation. Although the CI itself does not mean automation, once you start implementing CI to your project the automation part comes as a natural step.&lt;/p&gt;
+&lt;p&gt;Now the idea of CI is that those submitted changes once reviewed/documented/whatever is in the process get merged and integrated into the code base.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2 Automation&lt;/h3&gt;
+
+&lt;p&gt;Once you start implementing CI to your project the automation part comes as a natural step.&lt;/p&gt;
 
 &lt;h5 id=&#34;2-1-deployment-build-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.1 Deployment/build automation&lt;/h5&gt;
 
@@ -50,13 +50,13 @@
 
 &lt;p&gt;Build the environment, deploy, execute tests and provide testsuite results to interested parties (eg. code reviewers).&lt;/p&gt;
 
-&lt;h5 id=&#34;2-3-deployment-methodology-change:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.3 Deployment methodology change&lt;/h5&gt;
+&lt;h4 id=&#34;3-deployment-methodology-change:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;3 Deployment methodology change&lt;/h4&gt;
 
 &lt;p&gt;You have just read about quality assurance through test writing and execution per submitted change. At the beginning of this short post you have also read about deployment methodologies. There are many, I have mentioned versioning deployments.&lt;/p&gt;
 
 &lt;p&gt;Well, since you have went a long way from having to do everything yourself, perhaps enhancing your code quality through tests, integrating the automation in your software development process. At this point you may notice that: if change is tested, does not bring any integration issues and has been reviewed by the team - why wait with the merging?&lt;/p&gt;
 
-&lt;p&gt;Aand you have just created a great environment to use the CI with : )&lt;/p&gt;
+&lt;p&gt;Aand you have just created a great environment to use the CI with. If you did like the idea - google up continuous development &amp;amp; delivery. Have fun! : )&lt;/p&gt;
 </description>
     </item>
     
