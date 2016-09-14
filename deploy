@@ -8,7 +8,7 @@ hugo -t casper # if using a theme, replace by `hugo -t <yourtheme>`
 # Go To Public folder
 cd public
 # Add changes to git.
-git add -A
+git add -A .
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -20,5 +20,6 @@ git commit -m "$msg"
 cd ..
 
 # Push source
-git subtree push --prefix=public https://github.com/tzubertowski/tzubertowski.github.io.git master
+git subtree push --prefix=public git@github.com:tzubertowski/tzubertowski.github.io.git master
+
 
