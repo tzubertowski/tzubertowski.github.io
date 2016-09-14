@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sermon on devlags | Tomasz Zubertowski</title>
-    <link>http://tzubertowski.github.io/categories/sermon/</link>
-    <description>Recent content in Sermon on devlags | Tomasz Zubertowski</description>
+    <title>Continuous Integration on devlags | Tomasz Zubertowski</title>
+    <link>http://tzubertowski.github.io/categories/continuous-integration/</link>
+    <description>Recent content in Continuous Integration on devlags | Tomasz Zubertowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>All rights somethingsomething opensource, yay!</copyright>
     <lastBuildDate>Wed, 14 Sep 2016 12:28:08 +0100</lastBuildDate>
-    <atom:link href="http://tzubertowski.github.io/categories/sermon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tzubertowski.github.io/categories/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sunday sermon #2 - help your project, use CI!</title>
@@ -57,61 +57,6 @@
 &lt;p&gt;Well, since you have went a long way from having to do everything yourself, perhaps enhancing your code quality through tests, integrating the automation in your software development process. At this point you may notice that: if change is tested, does not bring any integration issues and has been reviewed by the team - why wait with the merging?&lt;/p&gt;
 
 &lt;p&gt;Aand you have just created a great environment to use the CI with : )&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sunday sermon #1 - QA, goalkeeper of every developer</title>
-      <link>http://tzubertowski.github.io/post/qa-the-goalkeeper/</link>
-      <pubDate>Sun, 03 Jul 2016 21:28:08 +0100</pubDate>
-      
-      <guid>http://tzubertowski.github.io/post/qa-the-goalkeeper/</guid>
-      <description>
-
-&lt;h3 id=&#34;wait-what:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Wait, what?&lt;/h3&gt;
-
-&lt;p&gt;Yeah, your goalkeeper. Surprised? If you are a developer there&amp;rsquo;s a great chance that you are underestimating the role of QA in development process. The less experience you have the more the chance is. But hey, that&amp;rsquo;s natural you know.&lt;/p&gt;
-
-&lt;p&gt;You will grow to love them on your first major, ekhm, bug on production.&lt;/p&gt;
-
-&lt;h3 id=&#34;bugs-on-production-never-happen-to-me:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Bugs on production never happen to me!&lt;/h3&gt;
-
-&lt;p&gt;Maybe, or perhaps you just ignore the pingpong you usually play with your QA tester. Acceptance criteria not fulfilled? Meh. Bugfix still not resolving the issue? Pfft, what do they know. Hard copy change? Ah come on man, that&amp;rsquo;s &lt;em&gt;just&lt;/em&gt; one word off.&lt;/p&gt;
-
-&lt;p&gt;Every time your QA dared to make you sit down and amend the mistakes - they saved one bug on production. Not you, them.&lt;/p&gt;
-
-&lt;h3 id=&#34;okay-i-may-have-had-one-or-two-bugs-but-hey-it-s-qa-not-catching-them:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Okay, I may have had one or two bugs. But hey - it&amp;rsquo;s QA not catching them&lt;/h3&gt;
-
-&lt;p&gt;Come on. That&amp;rsquo;s low. It was you in the first place who introduced the bug. A moment ago you were close to completely disregarding QA work, now you try to blame them for letting a bug go through the testing.&lt;/p&gt;
-
-&lt;p&gt;Sure, it would be nice to fix the issue before it getting to production but man - it happens everywhere, regardless of development process.&lt;/p&gt;
-
-&lt;h3 id=&#34;b-but-such-minor-quality-issues-shouldn-t-be-considered-bugs:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;B-but such minor quality issues shouldn&amp;rsquo;t be considered bugs&lt;/h3&gt;
-
-&lt;p&gt;Oh but they definitely should. Every single issue released to production is potentially harmful to the company you are working at. I do know you are &lt;em&gt;but a mere developer&lt;/em&gt; but hey, it is going to be you talking with your manager next time QA fails to catch something.&lt;/p&gt;
-
-&lt;p&gt;After all the clients whom pay your company pay your salary as well as your manager&amp;rsquo;s.&lt;/p&gt;
-
-&lt;h3 id=&#34;all-they-do-is-writing-automation-tests-i-could-do-it-myself:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;All they do is writing automation tests, I could do it myself&lt;/h3&gt;
-
-&lt;p&gt;Sure you could, you are a developer after all. And by such you tend to write things as you understand them. Automation testers however write them as per business requirement totally ignoring the idea you came up yourself. Often mismatching what you have developed and, again, defending the goal.&lt;/p&gt;
-
-&lt;p&gt;This point however could be indeed true if you yourself began writing behavioral tests. But hey, I bet that&amp;rsquo;s boring.&lt;/p&gt;
-
-&lt;h3 id=&#34;so-what-should-i-do-to-not-mess-with-qa-then:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;So what should I do to not mess with QA then?&lt;/h3&gt;
-
-&lt;p&gt;Just don&amp;rsquo;t be egocentric, that&amp;rsquo;s all. If you are not a junior it&amp;rsquo;s going to be way easier for you since you should already know that - don&amp;rsquo;t take everything personally.&lt;/p&gt;
-
-&lt;p&gt;You guys both work for the same goal, don&amp;rsquo;t forget that.&lt;/p&gt;
-
-&lt;h5 id=&#34;afterword:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Afterword&lt;/h5&gt;
-
-&lt;p&gt;Turns out it&amp;rsquo;s a lot of fun to write short, clickbaiting (sorry, but not really) posts like that. I will try to keep them as series - &lt;em&gt;sunday sermon&lt;/em&gt; seemed to fit as the name like nothing else.&lt;/p&gt;
-
-&lt;p&gt;If you do like this form of writing - let me know in the comments. Hell, even if you don&amp;rsquo;t just let me know.&lt;/p&gt;
-
-&lt;p&gt;Cheers,
-Tomasz&lt;/p&gt;
 </description>
     </item>
     
