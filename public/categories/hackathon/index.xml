@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on devlags | Tomasz Zubertowski</title>
+    <link>http://tzubertowski.github.io/categories/hackathon/index.xml</link>
+    <description>Recent content in Hackathon on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>All rights somethingsomething opensource, yay!</copyright>
+    <atom:link href="http://tzubertowski.github.io/categories/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hackaton - internal or external, a great thing to do regardless</title>
+      <link>http://tzubertowski.github.io/post/hackathon-benefits/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/post/hackathon-benefits/</guid>
+      <description>
+
+&lt;h3 id=&#34;1-what-s-a-hackathon&#34;&gt;1. What&amp;rsquo;s a hackathon&lt;/h3&gt;
+
+&lt;p&gt;Hackathon&amp;rsquo;s meaning is partially incuded in it&amp;rsquo;s name, hack + marathon, marathon of &amp;ldquo;hacking&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s an event where large ammounts of developers/IT/design/management/etc experts meet together to work on a projects with the goal of finishing it in planned hackathon lenght (usually 24-72hrs). Those projects tend to have a theme selected by hackathon organizers, however the exact project ideas come from participants.&lt;/p&gt;
+
+&lt;h4 id=&#34;is-it-like-even-popular&#34;&gt;Is it, like, even popular?&lt;/h4&gt;
+
+&lt;p&gt;Yes it is. There is a ton of developers willing to code for fun, there is also a ton of people willing to help organize such events.
+The whole idea behind those kind of events is simple, but they are made different and interesting through theme and the location. Check out a few of interesting ones:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hackatrain.nl/&#34;&gt;http://hackatrain.nl/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/hackathon/&#34;&gt;https://www.facebook.com/hackathon/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackjunction.com/&#34;&gt;https://hackjunction.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I assure you that most of those had open tickets that were gone in matter of days.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-external-open-hackathons&#34;&gt;2. External/open hackathons&lt;/h3&gt;
+
+&lt;p&gt;Those are the most common ones. External - as in available for anyone interested in participating.&lt;/p&gt;
+
+&lt;h5 id=&#34;what-s-in-for-the-organizers&#34;&gt;What&amp;rsquo;s in for the organizers?&lt;/h5&gt;
+
+&lt;p&gt;Organizing one seems like a lot of work, right? Food, drinks, theme, place to stay, hardware (screen/desks). Why would anyone bother with making one?
+Well for one you have a large group of IT people who obviously can develop solutions seeing what insane projects are sometimes finished in merely 24-72hrs. IT is still haunted by specialist shortages. Interviewing takes a lot of time both due to the quality of candidates and broken recruitment processess.&lt;/p&gt;
+
+&lt;p&gt;Hackathon by it&amp;rsquo;s nature of working for fun is a &lt;em&gt;fantastic&lt;/em&gt; place to fish out experts who enjoy their work for what it is - after all they spend their free time coding stuff that will most likely not bring them any material gain. Those events also tend to aggregate experienced people who can actually build stuff.&lt;/p&gt;
+
+&lt;p&gt;And it&amp;rsquo;s not just developers or IT in general. Great designers, managers, content writers enjoy hakcathons as well!&lt;/p&gt;
+
+&lt;h5 id=&#34;what-s-in-for-participants&#34;&gt;What&amp;rsquo;s in for participants?&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fun&lt;/strong&gt; is the first one. Sometimes you have finished your personal project some time ago and cannot find idea or motivation to start a new one, or you feel a bit burned out by your day to day work. I bet you already forgot how much fun it is to build barely working prototype :)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience gain&lt;/strong&gt; is a nice addition too. You work with other experts on a project after all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space for experiment&lt;/strong&gt;. Perhaps you are a backend developer that heard about how great React.js is, or you are a frontend developer wanting to check out how nodejs/closure/placeholder_here. Hackathons are there to help you experiment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Career growth opportunity&lt;/strong&gt;. That is an extension of previous paragraph. Companies are looking for experts, experts are often looking for new opportunities.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;3-internal-company-wide-hackathons&#34;&gt;3. Internal (company-wide) hackathons&lt;/h3&gt;
+
+&lt;p&gt;Those are the ones that are rare and simultaneously the ones that bring the most benefit.&lt;/p&gt;
+
+&lt;p&gt;Here at &lt;a href=&#34;http://lifeworks.com&#34;&gt;LifeWorks&lt;/a&gt; we have organized one just before december. Although it was reserved only for the employees I do believe it has been an eye-opening event for management and a fun one for participants.&lt;/p&gt;
+
+&lt;h5 id=&#34;what-s-in-for-the-company&#34;&gt;What&amp;rsquo;s in for the company?&lt;/h5&gt;
+
+&lt;h6 id=&#34;recruitment&#34;&gt;Recruitment&lt;/h6&gt;
+
+&lt;p&gt;The same benefit as external hackathons applies here only if the event is open for both internal and external participants.&lt;/p&gt;
+
+&lt;p&gt;It is however slightly different. Hackathons that are aggregating both internal and external participants are a great way of recruiting as well. Subconsciously employees are working together with people from the outside. Such work often results in a great cooperation and a great hackathon project. This way companies are able to effortlessly &lt;em&gt;interview&lt;/em&gt; and &lt;em&gt;test out&lt;/em&gt; how potential candidates fit into the teams they have built.&lt;/p&gt;
+
+&lt;h6 id=&#34;product-enhancement&#34;&gt;Product enhancement&lt;/h6&gt;
+
+&lt;p&gt;Employees are the ones that see, use and work on given product the most. They are often the ones who try to improve it during their work time, it is not rare however (especially in startup community) for them not to have an opportunity to do so. Tight schedules, hotfixes needed on production right now, weak management and planning often make it impossible. Hackathons however are the time when people can sit down and build/enhance something they always wanted to do.&lt;/p&gt;
+
+&lt;p&gt;Upper management may be surprised how much can be done in so little time when everyone is motivated and unmanaged. Of course such projects if choosen to be product features have to go through normal release process, however the time will be decreased as there is already a prototype working.&lt;/p&gt;
+
+&lt;p&gt;Sadly this benefit only applies to internal, closed hackathons for employees only. Exception to this are opensource companies of course.&lt;/p&gt;
+
+&lt;h6 id=&#34;employee-motivation-boost&#34;&gt;Employee motivation boost&lt;/h6&gt;
+
+&lt;p&gt;Hackathons participants are prone to motivation boost : )&lt;/p&gt;
+
+&lt;p&gt;You have very limited ammount of time, yet you manage to build something that works, coul be reused and was a lot of fun to build. That sure makes anyone want to go to work the next day.&lt;/p&gt;
+
+&lt;h6 id=&#34;benefits-company-image&#34;&gt;Benefits company image&lt;/h6&gt;
+
+&lt;p&gt;If it&amp;rsquo;s internal - it&amp;rsquo;s directly for the employees. Company that was able to sacrifice a bit of budget and time (as it&amp;rsquo;s only fair, considering the benefits, for hackathon to start on a working day) to allow them to have some fun with projects they wanted to do. Sick!&lt;/p&gt;
+
+&lt;p&gt;If it&amp;rsquo;s a hackathon for external participants as well it&amp;rsquo;s even better. Words spread easilly, what developer would possibly dislike a company that &lt;em&gt;feels&lt;/em&gt; it?&lt;/p&gt;
+
+&lt;h4 id=&#34;what-s-in-for-the-employees-participants&#34;&gt;What&amp;rsquo;s in for the employees/participants?&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Same things apply as for external hackathons. In addition to that you have the opportunity to work and bond with your coworkers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opensource opportunity&lt;/strong&gt;. Hackathon is a great way to open the doors for opensource in your company. Since you spend all this time benefiting just the company, why not release all this stuff for others to use?&lt;/li&gt;
+&lt;li&gt;Chance to win. A bit of healthy competition is a great boost for many. Even if you don&amp;rsquo;t like it, you still have a chance to win a prize for your hard work.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Not to mention the beers.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-conclusion&#34;&gt;4. Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Hackathons aren&amp;rsquo;t new, they have been there in one way or another since the geeks decided to create communities. Often ignored or considered as useless they are not only great fun but also beneficial for any party participating.&lt;/p&gt;
+
+&lt;p&gt;I can only suggest you to try one yourself.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

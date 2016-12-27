@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sermon on devlags | Tomasz Zubertowski</title>
-    <link>http://tzubertowski.github.io/categories/sermon/</link>
+    <link>http://tzubertowski.github.io/categories/sermon/index.xml</link>
     <description>Recent content in Sermon on devlags | Tomasz Zubertowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>All rights somethingsomething opensource, yay!</copyright>
-    <lastBuildDate>Wed, 14 Sep 2016 12:28:08 +0100</lastBuildDate>
     <atom:link href="http://tzubertowski.github.io/categories/sermon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,7 +17,7 @@
       <guid>http://tzubertowski.github.io/post/ci-wont-save-you/</guid>
       <description>
 
-&lt;h3 id=&#34;1-what-s-ci:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;1. What&amp;rsquo;s CI&lt;/h3&gt;
+&lt;h3 id=&#34;1-what-s-ci&#34;&gt;1. What&amp;rsquo;s CI&lt;/h3&gt;
 
 &lt;p&gt;CI stand for continous integration. The simplest way I could explain what it really is is with an example.&lt;/p&gt;
 
@@ -30,11 +29,11 @@
 
 &lt;p&gt;Now the idea of CI is that those submitted changes once reviewed/documented/whatever is in the process get merged and integrated into the code base.&lt;/p&gt;
 
-&lt;h3 id=&#34;2-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2 Automation&lt;/h3&gt;
+&lt;h3 id=&#34;2-automation&#34;&gt;2 Automation&lt;/h3&gt;
 
 &lt;p&gt;Once you start implementing CI to your project the automation part comes as a natural step.&lt;/p&gt;
 
-&lt;h5 id=&#34;2-1-deployment-build-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.1 Deployment/build automation&lt;/h5&gt;
+&lt;h5 id=&#34;2-1-deployment-build-automation&#34;&gt;2.1 Deployment/build automation&lt;/h5&gt;
 
 &lt;p&gt;Assuming that you guys still deploy manually you sure know how long it takes. Starting from executing migrations on the DB, updating indexes, the codebase itself, regenerating caches/static content. All of those take a lot of time, yet they don&amp;rsquo;t have to.&lt;/p&gt;
 
@@ -42,7 +41,7 @@
 
 &lt;p&gt;Protip: Those automation steps should be external to your CI solution, eg. CI shouldn&amp;rsquo;t contain the scripts themselves but only execute them.&lt;/p&gt;
 
-&lt;h5 id=&#34;2-2-test-execution-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.2 Test execution automation&lt;/h5&gt;
+&lt;h5 id=&#34;2-2-test-execution-automation&#34;&gt;2.2 Test execution automation&lt;/h5&gt;
 
 &lt;p&gt;If you are no writing any tests - change either your work quality or the work itself. Benefits are outrageous, but even if you do write them test execution is problematic. From the integration point of view  - tests tell you how well your changes integrated into the existing code.&lt;/p&gt;
 
@@ -50,7 +49,7 @@
 
 &lt;p&gt;Build the environment, deploy, execute tests and provide testsuite results to interested parties (eg. code reviewers).&lt;/p&gt;
 
-&lt;h4 id=&#34;3-deployment-methodology-change:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;3 Deployment methodology change&lt;/h4&gt;
+&lt;h4 id=&#34;3-deployment-methodology-change&#34;&gt;3 Deployment methodology change&lt;/h4&gt;
 
 &lt;p&gt;You have just read about quality assurance through test writing and execution per submitted change. At the beginning of this short post you have also read about deployment methodologies. There are many, I have mentioned versioning deployments.&lt;/p&gt;
 
@@ -68,43 +67,43 @@
       <guid>http://tzubertowski.github.io/post/qa-the-goalkeeper/</guid>
       <description>
 
-&lt;h3 id=&#34;wait-what:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Wait, what?&lt;/h3&gt;
+&lt;h3 id=&#34;wait-what&#34;&gt;Wait, what?&lt;/h3&gt;
 
 &lt;p&gt;Yeah, your goalkeeper. Surprised? If you are a developer there&amp;rsquo;s a great chance that you are underestimating the role of QA in development process. The less experience you have the more the chance is. But hey, that&amp;rsquo;s natural you know.&lt;/p&gt;
 
 &lt;p&gt;You will grow to love them on your first major, ekhm, bug on production.&lt;/p&gt;
 
-&lt;h3 id=&#34;bugs-on-production-never-happen-to-me:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Bugs on production never happen to me!&lt;/h3&gt;
+&lt;h3 id=&#34;bugs-on-production-never-happen-to-me&#34;&gt;Bugs on production never happen to me!&lt;/h3&gt;
 
 &lt;p&gt;Maybe, or perhaps you just ignore the pingpong you usually play with your QA tester. Acceptance criteria not fulfilled? Meh. Bugfix still not resolving the issue? Pfft, what do they know. Hard copy change? Ah come on man, that&amp;rsquo;s &lt;em&gt;just&lt;/em&gt; one word off.&lt;/p&gt;
 
 &lt;p&gt;Every time your QA dared to make you sit down and amend the mistakes - they saved one bug on production. Not you, them.&lt;/p&gt;
 
-&lt;h3 id=&#34;okay-i-may-have-had-one-or-two-bugs-but-hey-it-s-qa-not-catching-them:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Okay, I may have had one or two bugs. But hey - it&amp;rsquo;s QA not catching them&lt;/h3&gt;
+&lt;h3 id=&#34;okay-i-may-have-had-one-or-two-bugs-but-hey-it-s-qa-not-catching-them&#34;&gt;Okay, I may have had one or two bugs. But hey - it&amp;rsquo;s QA not catching them&lt;/h3&gt;
 
 &lt;p&gt;Come on. That&amp;rsquo;s low. It was you in the first place who introduced the bug. A moment ago you were close to completely disregarding QA work, now you try to blame them for letting a bug go through the testing.&lt;/p&gt;
 
 &lt;p&gt;Sure, it would be nice to fix the issue before it getting to production but man - it happens everywhere, regardless of development process.&lt;/p&gt;
 
-&lt;h3 id=&#34;b-but-such-minor-quality-issues-shouldn-t-be-considered-bugs:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;B-but such minor quality issues shouldn&amp;rsquo;t be considered bugs&lt;/h3&gt;
+&lt;h3 id=&#34;b-but-such-minor-quality-issues-shouldn-t-be-considered-bugs&#34;&gt;B-but such minor quality issues shouldn&amp;rsquo;t be considered bugs&lt;/h3&gt;
 
 &lt;p&gt;Oh but they definitely should. Every single issue released to production is potentially harmful to the company you are working at. I do know you are &lt;em&gt;but a mere developer&lt;/em&gt; but hey, it is going to be you talking with your manager next time QA fails to catch something.&lt;/p&gt;
 
 &lt;p&gt;After all the clients whom pay your company pay your salary as well as your manager&amp;rsquo;s.&lt;/p&gt;
 
-&lt;h3 id=&#34;all-they-do-is-writing-automation-tests-i-could-do-it-myself:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;All they do is writing automation tests, I could do it myself&lt;/h3&gt;
+&lt;h3 id=&#34;all-they-do-is-writing-automation-tests-i-could-do-it-myself&#34;&gt;All they do is writing automation tests, I could do it myself&lt;/h3&gt;
 
 &lt;p&gt;Sure you could, you are a developer after all. And by such you tend to write things as you understand them. Automation testers however write them as per business requirement totally ignoring the idea you came up yourself. Often mismatching what you have developed and, again, defending the goal.&lt;/p&gt;
 
 &lt;p&gt;This point however could be indeed true if you yourself began writing behavioral tests. But hey, I bet that&amp;rsquo;s boring.&lt;/p&gt;
 
-&lt;h3 id=&#34;so-what-should-i-do-to-not-mess-with-qa-then:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;So what should I do to not mess with QA then?&lt;/h3&gt;
+&lt;h3 id=&#34;so-what-should-i-do-to-not-mess-with-qa-then&#34;&gt;So what should I do to not mess with QA then?&lt;/h3&gt;
 
 &lt;p&gt;Just don&amp;rsquo;t be egocentric, that&amp;rsquo;s all. If you are not a junior it&amp;rsquo;s going to be way easier for you since you should already know that - don&amp;rsquo;t take everything personally.&lt;/p&gt;
 
 &lt;p&gt;You guys both work for the same goal, don&amp;rsquo;t forget that.&lt;/p&gt;
 
-&lt;h5 id=&#34;afterword:bf4c111a8542724a0605e0ca38a268d0&#34;&gt;Afterword&lt;/h5&gt;
+&lt;h5 id=&#34;afterword&#34;&gt;Afterword&lt;/h5&gt;
 
 &lt;p&gt;Turns out it&amp;rsquo;s a lot of fun to write short, clickbaiting (sorry, but not really) posts like that. I will try to keep them as series - &lt;em&gt;sunday sermon&lt;/em&gt; seemed to fit as the name like nothing else.&lt;/p&gt;
 
