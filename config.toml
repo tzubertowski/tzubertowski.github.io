@@ -16,9 +16,9 @@ canonifyurls = true
 	logo = "images/oo_myface.png"
 	googleAnalyticsUserID = "UA-76483272-12"
 	# Optional RSS-Link, if not provided it defaults to the standard index.xml
-	# RSSLink = "http://feeds.feedburner.com/..." 
+	# RSSLink = "http://feeds.feedburner.com/..."
 	githubName = "tzubertowski"
-	twitterName = "ja_tomasz"
+	twitterName = "tzubertowski"
 	# facebookName = ""
 	linkedinName = "tzubertowski"
 	# set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
