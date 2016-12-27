@@ -5,6 +5,21 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
+    
+
+
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Sunday sermon #2 - help your project, use CI &amp; automation"/>
+<meta name="twitter:description" content="1. What&rsquo;s CI CI stand for continous integration. The simplest way I could explain what it really is is with an example.
+Say, you remember when you started your first coding related job, or maybe the second. Hopefully the company/environment provided you with opportunity to review code throughout the team. If so you may have noticed that often it is not the solution itself that takes the most time but the actual codereviews, discussions and merging that is the problem."/>
+
+
+
   	<meta property="og:title" content=" Sunday sermon #2 - help your project, use CI &amp; automation &middot;  devlags | Tomasz Zubertowski" />
   	<meta property="og:site_name" content="devlags | Tomasz Zubertowski" />
   	<meta property="og:url" content="http://tzubertowski.github.io/post/ci-wont-save-you/" />
@@ -17,9 +32,9 @@
     
     
 
-  <title>
-     Sunday sermon #2 - help your project, use CI &amp; automation &middot;  devlags | Tomasz Zubertowski
-  </title>
+    <title>
+       Sunday sermon #2 - help your project, use CI &amp; automation &middot;  devlags | Tomasz Zubertowski
+    </title>
 
     <meta name="description" content="passionate developer with lags" />
 
@@ -40,7 +55,7 @@
       
       
     
-    <meta name="generator" content="Hugo 0.16-DEV" />
+    <meta name="generator" content="Hugo 0.18" />
 
     <link rel="canonical" href="http://tzubertowski.github.io/post/ci-wont-save-you/" />
 
@@ -138,7 +153,7 @@
     <section class="post-content">
       
 
-<h3 id="1-what-s-ci:b728ffecda08b2eadf77a8db18635fe1">1. What&rsquo;s CI</h3>
+<h3 id="1-what-s-ci">1. What&rsquo;s CI</h3>
 
 <p>CI stand for continous integration. The simplest way I could explain what it really is is with an example.</p>
 
@@ -150,11 +165,11 @@
 
 <p>Now the idea of CI is that those submitted changes once reviewed/documented/whatever is in the process get merged and integrated into the code base.</p>
 
-<h3 id="2-automation:b728ffecda08b2eadf77a8db18635fe1">2 Automation</h3>
+<h3 id="2-automation">2 Automation</h3>
 
 <p>Once you start implementing CI to your project the automation part comes as a natural step.</p>
 
-<h5 id="2-1-deployment-build-automation:b728ffecda08b2eadf77a8db18635fe1">2.1 Deployment/build automation</h5>
+<h5 id="2-1-deployment-build-automation">2.1 Deployment/build automation</h5>
 
 <p>Assuming that you guys still deploy manually you sure know how long it takes. Starting from executing migrations on the DB, updating indexes, the codebase itself, regenerating caches/static content. All of those take a lot of time, yet they don&rsquo;t have to.</p>
 
@@ -162,7 +177,7 @@
 
 <p>Protip: Those automation steps should be external to your CI solution, eg. CI shouldn&rsquo;t contain the scripts themselves but only execute them.</p>
 
-<h5 id="2-2-test-execution-automation:b728ffecda08b2eadf77a8db18635fe1">2.2 Test execution automation</h5>
+<h5 id="2-2-test-execution-automation">2.2 Test execution automation</h5>
 
 <p>If you are no writing any tests - change either your work quality or the work itself. Benefits are outrageous, but even if you do write them test execution is problematic. From the integration point of view  - tests tell you how well your changes integrated into the existing code.</p>
 
@@ -170,7 +185,7 @@
 
 <p>Build the environment, deploy, execute tests and provide testsuite results to interested parties (eg. code reviewers).</p>
 
-<h4 id="3-deployment-methodology-change:b728ffecda08b2eadf77a8db18635fe1">3 Deployment methodology change</h4>
+<h4 id="3-deployment-methodology-change">3 Deployment methodology change</h4>
 
 <p>You have just read about quality assurance through test writing and execution per submitted change. At the beginning of this short post you have also read about deployment methodologies. There are many, I have mentioned versioning deployments.</p>
 

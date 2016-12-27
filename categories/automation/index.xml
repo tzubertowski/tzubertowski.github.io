@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on devlags | Tomasz Zubertowski</title>
-    <link>http://tzubertowski.github.io/categories/automation/</link>
+    <link>http://tzubertowski.github.io/categories/automation/index.xml</link>
     <description>Recent content in Automation on devlags | Tomasz Zubertowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>All rights somethingsomething opensource, yay!</copyright>
-    <lastBuildDate>Wed, 14 Sep 2016 12:28:08 +0100</lastBuildDate>
     <atom:link href="http://tzubertowski.github.io/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -18,7 +17,7 @@
       <guid>http://tzubertowski.github.io/post/ci-wont-save-you/</guid>
       <description>
 
-&lt;h3 id=&#34;1-what-s-ci:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;1. What&amp;rsquo;s CI&lt;/h3&gt;
+&lt;h3 id=&#34;1-what-s-ci&#34;&gt;1. What&amp;rsquo;s CI&lt;/h3&gt;
 
 &lt;p&gt;CI stand for continous integration. The simplest way I could explain what it really is is with an example.&lt;/p&gt;
 
@@ -30,11 +29,11 @@
 
 &lt;p&gt;Now the idea of CI is that those submitted changes once reviewed/documented/whatever is in the process get merged and integrated into the code base.&lt;/p&gt;
 
-&lt;h3 id=&#34;2-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2 Automation&lt;/h3&gt;
+&lt;h3 id=&#34;2-automation&#34;&gt;2 Automation&lt;/h3&gt;
 
 &lt;p&gt;Once you start implementing CI to your project the automation part comes as a natural step.&lt;/p&gt;
 
-&lt;h5 id=&#34;2-1-deployment-build-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.1 Deployment/build automation&lt;/h5&gt;
+&lt;h5 id=&#34;2-1-deployment-build-automation&#34;&gt;2.1 Deployment/build automation&lt;/h5&gt;
 
 &lt;p&gt;Assuming that you guys still deploy manually you sure know how long it takes. Starting from executing migrations on the DB, updating indexes, the codebase itself, regenerating caches/static content. All of those take a lot of time, yet they don&amp;rsquo;t have to.&lt;/p&gt;
 
@@ -42,7 +41,7 @@
 
 &lt;p&gt;Protip: Those automation steps should be external to your CI solution, eg. CI shouldn&amp;rsquo;t contain the scripts themselves but only execute them.&lt;/p&gt;
 
-&lt;h5 id=&#34;2-2-test-execution-automation:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;2.2 Test execution automation&lt;/h5&gt;
+&lt;h5 id=&#34;2-2-test-execution-automation&#34;&gt;2.2 Test execution automation&lt;/h5&gt;
 
 &lt;p&gt;If you are no writing any tests - change either your work quality or the work itself. Benefits are outrageous, but even if you do write them test execution is problematic. From the integration point of view  - tests tell you how well your changes integrated into the existing code.&lt;/p&gt;
 
@@ -50,7 +49,7 @@
 
 &lt;p&gt;Build the environment, deploy, execute tests and provide testsuite results to interested parties (eg. code reviewers).&lt;/p&gt;
 
-&lt;h4 id=&#34;3-deployment-methodology-change:b728ffecda08b2eadf77a8db18635fe1&#34;&gt;3 Deployment methodology change&lt;/h4&gt;
+&lt;h4 id=&#34;3-deployment-methodology-change&#34;&gt;3 Deployment methodology change&lt;/h4&gt;
 
 &lt;p&gt;You have just read about quality assurance through test writing and execution per submitted change. At the beginning of this short post you have also read about deployment methodologies. There are many, I have mentioned versioning deployments.&lt;/p&gt;
 
