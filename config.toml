@@ -3,11 +3,11 @@ LanguageCode= "en-GB"
 Title= "devlags | Tomasz Zubertowski"
 paginate = 5
 DisqusShortname = "devlags"
-Copyright = "All rights somethingsomething opensource, yay!"
+Copyright = "Copyright up to you"
 canonifyurls = true
 
 [params]
-	description = "passionate developer with lags"
+	description = "passionate developer with no lags"
 	cover = "images/header_image.jpg"
 	author = "Tomasz Zubertowski"
 	authorlocation = "London, United Kingdom"

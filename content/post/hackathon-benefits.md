@@ -57,7 +57,7 @@ Sadly this benefit only applies to internal, closed hackathons for employees onl
 ###### Employee motivation boost
 Hackathons participants are prone to motivation boost : )
 
-You have very limited ammount of time, yet you manage to build something that works, coul be reused and was a lot of fun to build. That sure makes anyone want to go to work the next day.
+You have very limited ammount of time, yet you manage to build something that works, could be reused and was a lot of fun to build. That sure makes anyone want to go to work the next day.
 ###### Benefits company image
 If it's internal - it's directly for the employees. Company that was able to sacrifice a bit of budget and time (as it's only fair, considering the benefits, for hackathon to start on a working day) to allow them to have some fun with projects they wanted to do. Sick!
 
