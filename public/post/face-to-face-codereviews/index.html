@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:image" content="/images/2018/03/codereviews.jpg"/>
+    
+
+
+
+<meta name="twitter:title" content="Sunday sermon #3 - face to face code reviews loose their value"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@tzubertowski"/>
+
+
+
+  	<meta property="og:title" content="Sunday sermon #3 - face to face code reviews loose their value &middot; devlags | Tomasz Zubertowski" />
+  	<meta property="og:site_name" content="devlags | Tomasz Zubertowski" />
+  	<meta property="og:url" content="http://tzubertowski.github.io/post/face-to-face-codereviews/" />
+
+    
+       <meta property="og:image" content="/images/2018/03/codereviews.jpg"/>
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2018-03-12T08:04:08&#43;01:00" />
+
+    
+    
+
+    <title>Sunday sermon #3 - face to face code reviews loose their value &middot; devlags | Tomasz Zubertowski</title>
+
+    
+    <meta name="description" content="What are code reviews? Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development p" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="http://tzubertowski.github.io/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="http://tzubertowski.github.io/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="http://tzubertowski.github.io/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="http://tzubertowski.github.io/css/nav.css" />
+
+    
+
+    
+
+    
+      
+          <link href="http://tzubertowski.github.io/index.xml" rel="alternate" type="application/rss+xml" title="devlags | Tomasz Zubertowski" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.37.1" />
+
+    <link rel="canonical" href="http://tzubertowski.github.io/post/face-to-face-codereviews/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": ,
+        "logo": http://tzubertowski.github.io/images/oo_myface.png
+    },
+    "author": {
+        "@type": "Person",
+        "name": ,
+        
+        "image": {
+            "@type": "ImageObject",
+            "url": http://tzubertowski.github.io/images/oo_myface.png,
+            "width": 250,
+            "height": 250
+        }, 
+        
+        "url": http://tzubertowski.github.io,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": Sunday sermon #3 - face to face code reviews loose their value,
+    "name": Sunday sermon #3 - face to face code reviews loose their value,
+    "wordCount": 519,
+    "timeRequired": "PT3M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": http://tzubertowski.github.io/post/face-to-face-codereviews/,
+    "datePublished": 2018-03-12T08:04Z,
+    "dateModified": 2018-03-12T08:04Z,
+    
+    "image": {
+        "@type": "ImageObject",
+        "url": http://tzubertowski.github.io/images/2018/03/codereviews.jpg,
+        "width": 3000,
+        "height": 1445
+    },
+    
+    
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": http://tzubertowski.github.io/post/face-to-face-codereviews/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-76483272-12', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://tzubertowski.github.io/post/welcome-party">About devlags</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://tzubertowski.github.io/post">Blog posts</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="http://tzubertowski.github.io/categories/feuilleton/">Feuilletons</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="http://tzubertowski.github.io/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+  
+  <header class="main-header post-head" style="background-image: url(/images/2018/03/codereviews.jpg)">
+  
+  <nav class="main-nav overlay clearfix">
+
+
+  
+      <a class="blog-logo" href="http://tzubertowski.github.io/"><img src="http://tzubertowski.github.io/images/oo_myface.png" alt="Home" /></a>
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post post">
+
+    <header class="post-header">
+        <h1 class="post-title">Sunday sermon #3 - face to face code reviews loose their value</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+          <time class="post-date" datetime="2018-03-12T08:04:08&#43;01:00">
+            Mar 12, 2018
+          </time>
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      
+
+<h3 id="what-are-code-reviews">What are code reviews?</h3>
+
+<p>Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development process.
+For those readers who have no idea what those are: code reviews are self-explainatory, it&rsquo;s a process of reviewing changes submitted by one programmer by other programmers working on the same project.</p>
+
+<p>Mind you - such reviews were not so popular just a few years back but benefits of including them in software development pipeline made them adapted widely anywhere from open source communities to business teams.</p>
+
+<h3 id="why-are-code-reviews-important">Why are code reviews important?</h3>
+
+<p>They aim to shield your codebase against changes which are faulty or do not comply with agreed standards. This means that any change which is not compatible architecturally, does not follow best practices, introduces bugs or simply do not solve the issue at hand will not get to the codebase.</p>
+
+<p>In addition to protecting the codebase against unwanted changed code reviews are also a place where discussion and knowledge sharing happens.</p>
+
+<h3 id="why-doing-code-reviews-face-to-face-decreases-their-value">Why doing code reviews face to face decreases their value</h3>
+
+<p>In teams that follow methodologies closer to rapid development a practice of holding face to face, or sit down with me please, code reviews is common.
+Naturally smaller treams, eg. startups, tend to favour face to face communication over asynchronous communication - mostly due to the former being faster.</p>
+
+<p>At the same time they don&rsquo;t realise that:</p>
+
+<ul>
+<li><p><strong>Sitting down with someone to explain them your changes makes the whole review process biased.</strong> Code should speak for itself. If it does not - that should be caught by someone whom does not see it from your perspective. The moment you <strong>explain</strong> a solution you change this unbiased approach of your reviewer. Now he thinks about a problem from your perspective.</p></li>
+
+<li><p><strong>Your discussions are only kept to you and your reviewer(s).</strong> Knowledge share, which I briefly mentioned before, is something that written code reviews excell at. Writting down your opinion, linking to resources, being able to come back to a comment any time without needing to keep it in your mental stack and verifying the review against other&rsquo;s - you are loosing it the moment you don&rsquo;t share it. You could say - &ldquo;yea, but I&rsquo;ll write it down later&rdquo; - how is that faster? Why not do it in the first place?</p></li>
+
+<li><p><strong>Software development requires focus.</strong> And code reviews are part of software development process. You want quality code? Give the programmer time, resources and let him focus. You want quality code review? Give the programmer time, resources and let him focus. As simple as that.
+It is ignorant to think your reviewer will read, <strong>understand</strong> and <strong>verify</strong> your solution while you are looking over their shoulder. They got hired to think, same like you, let them do what they are good at.</p></li>
+</ul>
+
+<h3 id="ending-words">Ending words</h3>
+
+<p>Just make sure you don&rsquo;t limit yourself to discussing over internet. This post was aimed to target the <strong>issues</strong> of synchronous communication and while writing down comments sure is great, once Your opinions and arguments have matured it sure helps to discuss face to face.</p>
+
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+<figure class="author-image">
+    <a class="img" href="http://tzubertowski.github.io/" style="background-image: url(/images/oo_myface.png)"><span class="hidden">Tomasz Zubertowski's Picture</span></a>
+</figure>
+
+
+<section class="author">
+  <h4><a href="http://tzubertowski.github.io/">Tomasz Zubertowski</a></h4>
+  
+  <p>Read <a href="http://tzubertowski.github.io/">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">London, United Kingdom</span>
+    <span class="author-link icon-link"><a href="http://tzubertowski.github.io">http://tzubertowski.github.io</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Sunday%20sermon%20%233%20-%20face%20to%20face%20code%20reviews%20loose%20their%20value&nbsp;-&nbsp;devlags%20%7c%20Tomasz%20Zubertowski&amp;url=http%3a%2f%2ftzubertowski.github.io%2fpost%2fface-to-face-codereviews%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2ftzubertowski.github.io%2fpost%2fface-to-face-codereviews%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2ftzubertowski.github.io%2fpost%2fface-to-face-codereviews%2f&amp;description=Sunday%20sermon%20%233%20-%20face%20to%20face%20code%20reviews%20loose%20their%20value"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=http%3a%2f%2ftzubertowski.github.io%2fpost%2fface-to-face-codereviews%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+<div id="disqus_thread"></div>
+<script>
+
+
+
+
+var disqus_config = function () {
+this.page.url = "http:\/\/tzubertowski.github.io\/post\/face-to-face-codereviews\/";  
+this.page.identifier = "http:\/\/tzubertowski.github.io\/post\/face-to-face-codereviews\/"; 
+};
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://devlags.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+  
+      <a class="read-next-story prev" style="background-image: url(/images/2016/12/lifeworks_hackathon.jpg)" href="http://tzubertowski.github.io/post/hackathon-benefits/">
+          <section class="post">
+              <h2>Hackaton - internal or external, a great thing to do regardless</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">devlags | Tomasz Zubertowski</a> Copyright up to you</section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="http://tzubertowski.github.io/js/jquery.js"></script>
+    <script type="text/javascript" src="http://tzubertowski.github.io/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="http://tzubertowski.github.io/js/index.js"></script>
+    
+</body>
+</html>
+

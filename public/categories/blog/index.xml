@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on devlags | Tomasz Zubertowski</title>
-    <link>http://tzubertowski.github.io/categories/blog/index.xml</link>
+    <link>http://tzubertowski.github.io/categories/blog/</link>
     <description>Recent content in Blog on devlags | Tomasz Zubertowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <copyright>Copyright up to you</copyright>
-    <atom:link href="http://tzubertowski.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2016 07:10:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://tzubertowski.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Welcome Party</title>
@@ -15,20 +18,8 @@
       <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
       
       <guid>http://tzubertowski.github.io/post/welcome-party/</guid>
-      <description>
-
-&lt;h4 id=&#34;what-is-this-blog-about&#34;&gt;What is this blog about&lt;/h4&gt;
-
-&lt;p&gt;About developer lags. There are moments in your programming life when you need to sit down, perhaps write something down before throwing yourself into coding again. I always called those the dev lags. A lot of the beneficial ones have already been lost, hopefully this blog will save the rest of them.&lt;/p&gt;
-
-&lt;h4 id=&#34;what-can-you-expect&#34;&gt;What can you expect:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;tutorials, related to backend development, answers to less obvious programming questions&lt;/li&gt;
-&lt;li&gt;felietons, articles from the viewpoint of a developer, touching non-technical aspect of the profession&lt;/li&gt;
-&lt;li&gt;blogposts, my experiences from meetups, conferences, or simply articles which I wouldn&amp;rsquo;t call felietons&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> What is this blog about About developer lags. There are moments in your programming life when you need to sit down, perhaps write something down before throwing yourself into coding again. I always called those the dev lags. A lot of the beneficial ones have already been lost, hopefully this blog will save the rest of them.
+What can you expect:  tutorials, related to backend development, answers to less obvious programming questions felietons, articles from the viewpoint of a developer, touching non-technical aspect of the profession blogposts, my experiences from meetups, conferences, or simply articles which I wouldn&amp;rsquo;t call felietons  </description>
     </item>
     
   </channel>
