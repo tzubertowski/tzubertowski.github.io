@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 rm -rf public
 mkdir public
-git clone .git --branch master public
+git clone git@github.com:tzubertowski/tzubertowski.github.io.git --branch master public
 
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
