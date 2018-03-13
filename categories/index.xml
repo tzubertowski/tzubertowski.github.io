@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on devlags | Tomasz Zubertowski</title>
+    <link>http://tzubertowski.github.io/categories/</link>
+    <description>Recent content in Categories on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Mon, 12 Mar 2018 08:04:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://tzubertowski.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asynchronous</title>
+      <link>http://tzubertowski.github.io/categories/asynchronous/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/asynchronous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>http://tzubertowski.github.io/categories/automation/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefit</title>
+      <link>http://tzubertowski.github.io/categories/benefit/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/benefit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://tzubertowski.github.io/categories/blog/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ci</title>
+      <link>http://tzubertowski.github.io/categories/ci/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Review</title>
+      <link>http://tzubertowski.github.io/categories/code-review/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/code-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codereview</title>
+      <link>http://tzubertowski.github.io/categories/codereview/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/codereview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Integration</title>
+      <link>http://tzubertowski.github.io/categories/continuous-integration/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/continuous-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cr</title>
+      <link>http://tzubertowski.github.io/categories/cr/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/cr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>http://tzubertowski.github.io/categories/developer/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/developer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feuilleton</title>
+      <link>http://tzubertowski.github.io/categories/feuilleton/</link>
+      <pubDate>Wed, 14 Sep 2016 11:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/feuilleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>http://tzubertowski.github.io/categories/hackathon/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>http://tzubertowski.github.io/categories/ideas/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://tzubertowski.github.io/categories/interview/</link>
+      <pubDate>Wed, 14 Sep 2016 11:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pr</title>
+      <link>http://tzubertowski.github.io/categories/pr/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>http://tzubertowski.github.io/categories/quality/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sermon</title>
+      <link>http://tzubertowski.github.io/categories/sermon/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/sermon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunday</title>
+      <link>http://tzubertowski.github.io/categories/sunday/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/sunday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronous</title>
+      <link>http://tzubertowski.github.io/categories/synchronous/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://tzubertowski.github.io/categories/synchronous/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
