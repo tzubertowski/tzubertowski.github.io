@@ -1,10 +1,13 @@
 BaseUrl= "http://tzubertowski.github.io/"
 LanguageCode= "en-GB"
 Title= "devlags | Tomasz Zubertowski"
-paginate = 5
+Paginate = 5 
+DefaultContentLanguage = "en"
 DisqusShortname = "devlags"
 Copyright = "Copyright up to you"
 canonifyurls = true
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
 
 [params]
 	description = "passionate developer with no lags"
@@ -23,6 +26,19 @@ canonifyurls = true
 	linkedinName = "tzubertowski"
 	# set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
 	hideHUGOSupport = false
+  twitter = "https://twitter.com/tzubertowski"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/tzubertowski"
+  linkedin = "http://linkedin.com/in/tzubertowski"
+  background_color_class = "bg-black"
+  featured_image = "/images/header_image.jpg"
+  recent_posts_number = 3
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [taxonomies]
 	tag = "tags"
@@ -45,3 +61,4 @@ canonifyurls = true
   weight = -110
   identifier = "feuilleton_list"
   url = "/categories/feuilleton/"
+

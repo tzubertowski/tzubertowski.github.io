@@ -2,7 +2,7 @@
 date = "2016-09-14T11:28:08+01:00"
 draft = false
 title = "Senior developer – why can't you land a job with me "
-image = "images/2016/09/ohyeahsenior.jpg"
+featured_image = "/images/2016/09/ohyeahsenior.jpg"
 categories = ["feuilleton", "interview"]
 +++
 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feuilleton on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/categories/feuilleton/</link>
+    <description>Recent content in Feuilleton on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Wed, 14 Sep 2016 11:28:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/feuilleton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Senior developer – why can&#39;t you land a job with me </title>
+      <link>http://localhost:1313/post/senior-developer-interview/</link>
+      <pubDate>Wed, 14 Sep 2016 11:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/senior-developer-interview/</guid>
+      <description>Foreword I may not be the most experienced developer who takes care of recruitment process. At the same time the experience I have gained so far makes me a good source of information about conducting and attending interviews. Please, keep in mind that this article is written from the perspective of developer and not a recruiter before reading any further.
+Note: I didn&amp;rsquo;t want to bring any specific programming language to this post as I strongly believe what I am going to talk about applies to all of the languages.</description>
+    </item>
+    
+    <item>
+      <title>Learning how to code: common mistakes</title>
+      <link>http://localhost:1313/post/learning-to-code-mistakes/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/learning-to-code-mistakes/</guid>
+      <description>Backstory I, like many other developers, started my adventure with programming without any good reason. Some of us started early while some of us started late in our lives. At the same time nearly all started out simply because &amp;ldquo;it seemed like a fun thing to do&amp;rdquo;. Just like that - &amp;ldquo;it was fun to do so I did it&amp;rdquo;.
+I was lucky enough to own a really low-budget PC as a kid.</description>
+    </item>
+    
+  </channel>
+</rss>

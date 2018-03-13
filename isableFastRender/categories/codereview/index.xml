@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codereview on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/categories/codereview/</link>
+    <description>Recent content in Codereview on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Mon, 12 Mar 2018 08:04:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/codereview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunday sermon #3 - face to face code reviews loose their value</title>
+      <link>http://localhost:1313/post/face-to-face-codereviews/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/face-to-face-codereviews/</guid>
+      <description>What are code reviews? Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development process. For those readers who have no idea what those are: code reviews are self-explainatory, it&amp;rsquo;s a process of reviewing changes submitted by one programmer by other programmers working on the same project.
+Mind you - such reviews were not so popular just a few years back but benefits of including them in software development pipeline made them adapted widely anywhere from open source communities to business teams.</description>
+    </item>
+    
+  </channel>
+</rss>

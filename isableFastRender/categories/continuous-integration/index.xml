@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuous Integration on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/categories/continuous-integration/</link>
+    <description>Recent content in Continuous Integration on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Wed, 14 Sep 2016 12:28:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/continuous-integration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunday sermon #2 - help your project, use CI &amp; automation</title>
+      <link>http://localhost:1313/post/ci-wont-save-you/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/ci-wont-save-you/</guid>
+      <description>1. What&amp;rsquo;s CI CI stand for continous integration. The simplest way I could explain what it really is is with an example.
+Say, you remember when you started your first coding related job, or maybe the second. Hopefully the company/environment provided you with opportunity to review code throughout the team. If so you may have noticed that often it is not the solution itself that takes the most time but the actual codereviews, discussions and merging that is the problem.</description>
+    </item>
+    
+  </channel>
+</rss>

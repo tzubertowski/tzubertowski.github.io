@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Mon, 12 Mar 2018 08:04:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunday sermon #3 - face to face code reviews loose their value</title>
+      <link>http://localhost:1313/post/face-to-face-codereviews/</link>
+      <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/face-to-face-codereviews/</guid>
+      <description>What are code reviews? Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development process. For those readers who have no idea what those are: code reviews are self-explainatory, it&amp;rsquo;s a process of reviewing changes submitted by one programmer by other programmers working on the same project.
+Mind you - such reviews were not so popular just a few years back but benefits of including them in software development pipeline made them adapted widely anywhere from open source communities to business teams.</description>
+    </item>
+    
+    <item>
+      <title>Hackaton - internal or external, a great thing to do regardless</title>
+      <link>http://localhost:1313/post/hackathon-benefits/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/hackathon-benefits/</guid>
+      <description>1. What&amp;rsquo;s a hackathon Hackathon&amp;rsquo;s meaning is partially incuded in it&amp;rsquo;s name, hack + marathon, marathon of &amp;ldquo;hacking&amp;rdquo;.
+It&amp;rsquo;s an event where large ammounts of developers/IT/design/management/etc experts meet together to work on a projects with the goal of finishing it in planned hackathon lenght (usually 24-72hrs). Those projects tend to have a theme selected by hackathon organizers, however the exact project ideas come from participants.
+Is it, like, even popular?</description>
+    </item>
+    
+    <item>
+      <title>Sunday sermon #2 - help your project, use CI &amp; automation</title>
+      <link>http://localhost:1313/post/ci-wont-save-you/</link>
+      <pubDate>Wed, 14 Sep 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/ci-wont-save-you/</guid>
+      <description>1. What&amp;rsquo;s CI CI stand for continous integration. The simplest way I could explain what it really is is with an example.
+Say, you remember when you started your first coding related job, or maybe the second. Hopefully the company/environment provided you with opportunity to review code throughout the team. If so you may have noticed that often it is not the solution itself that takes the most time but the actual codereviews, discussions and merging that is the problem.</description>
+    </item>
+    
+    <item>
+      <title>Senior developer – why can&#39;t you land a job with me </title>
+      <link>http://localhost:1313/post/senior-developer-interview/</link>
+      <pubDate>Wed, 14 Sep 2016 11:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/senior-developer-interview/</guid>
+      <description>Foreword I may not be the most experienced developer who takes care of recruitment process. At the same time the experience I have gained so far makes me a good source of information about conducting and attending interviews. Please, keep in mind that this article is written from the perspective of developer and not a recruiter before reading any further.
+Note: I didn&amp;rsquo;t want to bring any specific programming language to this post as I strongly believe what I am going to talk about applies to all of the languages.</description>
+    </item>
+    
+    <item>
+      <title>Sunday sermon #1 - QA, goalkeeper of every developer</title>
+      <link>http://localhost:1313/post/qa-the-goalkeeper/</link>
+      <pubDate>Sun, 03 Jul 2016 21:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/qa-the-goalkeeper/</guid>
+      <description>Wait, what? Yeah, your goalkeeper. Surprised? If you are a developer there&amp;rsquo;s a great chance that you are underestimating the role of QA in development process. The less experience you have the more the chance is. But hey, that&amp;rsquo;s natural you know.
+You will grow to love them on your first major, ekhm, bug on production.
+Bugs on production never happen to me! Maybe, or perhaps you just ignore the pingpong you usually play with your QA tester.</description>
+    </item>
+    
+    <item>
+      <title>Learning how to code: common mistakes</title>
+      <link>http://localhost:1313/post/learning-to-code-mistakes/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/learning-to-code-mistakes/</guid>
+      <description>Backstory I, like many other developers, started my adventure with programming without any good reason. Some of us started early while some of us started late in our lives. At the same time nearly all started out simply because &amp;ldquo;it seemed like a fun thing to do&amp;rdquo;. Just like that - &amp;ldquo;it was fun to do so I did it&amp;rdquo;.
+I was lucky enough to own a really low-budget PC as a kid.</description>
+    </item>
+    
+    <item>
+      <title>Welcome Party</title>
+      <link>http://localhost:1313/post/welcome-party/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome-party/</guid>
+      <description> What is this blog about About developer lags. There are moments in your programming life when you need to sit down, perhaps write something down before throwing yourself into coding again. I always called those the dev lags. A lot of the beneficial ones have already been lost, hopefully this blog will save the rest of them.
+What can you expect:  tutorials, related to backend development, answers to less obvious programming questions felietons, articles from the viewpoint of a developer, touching non-technical aspect of the profession blogposts, my experiences from meetups, conferences, or simply articles which I wouldn&amp;rsquo;t call felietons  </description>
+    </item>
+    
+  </channel>
+</rss>

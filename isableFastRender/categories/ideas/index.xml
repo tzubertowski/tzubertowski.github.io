@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/categories/ideas/</link>
+    <description>Recent content in Ideas on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Tue, 27 Dec 2016 12:28:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hackaton - internal or external, a great thing to do regardless</title>
+      <link>http://localhost:1313/post/hackathon-benefits/</link>
+      <pubDate>Tue, 27 Dec 2016 12:28:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/hackathon-benefits/</guid>
+      <description>1. What&amp;rsquo;s a hackathon Hackathon&amp;rsquo;s meaning is partially incuded in it&amp;rsquo;s name, hack + marathon, marathon of &amp;ldquo;hacking&amp;rdquo;.
+It&amp;rsquo;s an event where large ammounts of developers/IT/design/management/etc experts meet together to work on a projects with the goal of finishing it in planned hackathon lenght (usually 24-72hrs). Those projects tend to have a theme selected by hackathon organizers, however the exact project ideas come from participants.
+Is it, like, even popular?</description>
+    </item>
+    
+  </channel>
+</rss>

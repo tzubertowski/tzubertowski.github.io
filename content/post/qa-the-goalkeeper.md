@@ -2,7 +2,7 @@
 date = "2016-07-03T21:28:08+01:00"
 draft = false
 title = "Sunday sermon #1 - QA, goalkeeper of every developer"
-image = "images/2016/07/qatothecosmos.jpg"
+featured_image = "/images/2016/07/qatothecosmos.jpg"
 categories = ["sermon", "sunday"]
 +++
 

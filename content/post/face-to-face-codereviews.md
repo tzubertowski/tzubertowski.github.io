@@ -3,7 +3,8 @@ date = "2018-03-12T08:04:08+01:00"
 draft = false
 title = "Sunday sermon #3 - face to face code reviews loose their value"
 categories = ["sermon", "sunday", "code review", "codereview", "cr", "pr", "asynchronous", "synchronous"]
-image = "images/2018/03/codereviews.jpg"
+featured_image = "images/2018/03/codereviews.jpg"
+type = "page"
 +++
 
 ### What are code reviews? 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on devlags | Tomasz Zubertowski</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on devlags | Tomasz Zubertowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <copyright>Copyright up to you</copyright>
+    <lastBuildDate>Fri, 15 Apr 2016 07:10:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome Party</title>
+      <link>http://localhost:1313/post/welcome-party/</link>
+      <pubDate>Fri, 15 Apr 2016 07:10:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome-party/</guid>
+      <description> What is this blog about About developer lags. There are moments in your programming life when you need to sit down, perhaps write something down before throwing yourself into coding again. I always called those the dev lags. A lot of the beneficial ones have already been lost, hopefully this blog will save the rest of them.
+What can you expect:  tutorials, related to backend development, answers to less obvious programming questions felietons, articles from the viewpoint of a developer, touching non-technical aspect of the profession blogposts, my experiences from meetups, conferences, or simply articles which I wouldn&amp;rsquo;t call felietons  </description>
+    </item>
+    
+  </channel>
+</rss>

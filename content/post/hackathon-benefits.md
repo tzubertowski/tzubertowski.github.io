@@ -2,7 +2,7 @@
 date = "2016-12-27T12:28:08+01:00"
 draft = false
 title = "Hackaton - internal or external, a great thing to do regardless"
-image = "images/2016/12/lifeworks_hackathon.jpg"
+featured_image = "/images/2016/12/lifeworks_hackathon.jpg"
 categories = ["hackathon", "benefit", "developer", "ideas"]
 +++
 
@@ -58,7 +58,7 @@ Sadly this benefit only applies to internal, closed hackathons for employees onl
 Hackathons participants are prone to motivation boost : )
 
 You have very limited ammount of time, yet you manage to build something that works, could be reused and was a lot of fun to build. That sure makes anyone want to go to work the next day.
-###### Benefits company image
+###### Benefits company featured_image
 If it's internal - it's directly for the employees. Company that was able to sacrifice a bit of budget and time (as it's only fair, considering the benefits, for hackathon to start on a working day) to allow them to have some fun with projects they wanted to do. Sick!
 
 If it's a hackathon for external participants as well it's even better. Words spread easilly, what developer would possibly dislike a company that *feels* it?
