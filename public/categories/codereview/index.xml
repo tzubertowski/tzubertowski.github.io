@@ -18,7 +18,7 @@
       <pubDate>Mon, 12 Mar 2018 08:04:08 +0100</pubDate>
       
       <guid>http://tzubertowski.github.io/post/face-to-face-codereviews/</guid>
-      <description>What are code reviews? Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development process. For those readers who have no idea what those are: code reviews are self-explainatory, it&amp;rsquo;s a process of reviewing changes submitted by one programmer by other programmers working on the same project.
+      <description>What are code reviews? Hopefully most of my readers whom are programmers are working in an environment where code reviews are part of the software development process. For those readers who have no idea what those are: code reviews are self-explainatory, it&amp;rsquo;s a process of reviewing changes (code) submitted by one member by other members working on the same project.
 Mind you - such reviews were not so popular just a few years back but benefits of including them in software development pipeline made them adapted widely anywhere from open source communities to business teams.</description>
     </item>
     
